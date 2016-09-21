@@ -1,0 +1,17 @@
+<dom-module id="my-temperature-card">
+  <template>
+    <div>title: {{title}}</div>
+    <div>postal: {{postal}}</div>
+    <div>unit: {{unit}}</div>
+  </template>
+  <script>
+    Polymer({
+      is: 'my-temperature-card',
+      properties: {
+        title: {type: String},
+        postal: {type: Number},
+        unit: {type: String}
+      }
+    });
+  </script>
+</dom-module>

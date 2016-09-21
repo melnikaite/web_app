@@ -1,0 +1,10 @@
+{
+  "name": "web_app",
+  "main": "",
+  "dependencies": {
+    "webcomponentsjs": "^0.7.22",
+    "px-card": "https://github.com/PredixDev/px-card.git#^0.5.2",
+    "angular": "^1.5.8",
+    "jquery": "^3.1.0"
+  }
+}
