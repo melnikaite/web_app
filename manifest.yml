@@ -1,4 +1,4 @@
 ---
 applications:
 - name: web_app
-  memory: 128M
+  memory: 64M
